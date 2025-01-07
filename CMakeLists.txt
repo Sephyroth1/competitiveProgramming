@@ -12,4 +12,4 @@ set(CMAKE_CXX_STANDARD_REQUIRED True)
 
 add_compile_options(-O2 -Wall)
 # Add the executable to be built
-add_executable(prog src/contests/easyDemonProblem.cpp)
+add_executable(prog src/problems/stringMatch.cpp)
